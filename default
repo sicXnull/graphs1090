@@ -15,7 +15,7 @@ range=nautical
 range2=leftaxis
 
 # colorscheme, options so far: default, dark
-colorscheme=default
+colorscheme=dark
 
 # set graph size, possible values: small, default, large, huge, custom
 graph_size=default
